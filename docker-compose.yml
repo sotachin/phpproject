@@ -5,6 +5,7 @@ services:
     build: 
       context: .
       dockerfile: Dockerfile
+    container_name: phpapp
     ports:
       - "9001:80"
     depends_on:
