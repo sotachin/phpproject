@@ -44,5 +44,7 @@ services:
 volumes:
   mysql_data:
 
+#All containers need to be on the same network to connect to each other
 networks:
   phpproject:
+
