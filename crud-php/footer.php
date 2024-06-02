@@ -3,7 +3,7 @@
 </div>
 
 <div class="footer">
-    <span> &copy; YEAR NAME / COMPANY</span>
+    <span> &copy; YEAR NAME / COMPANY Sonita</span>
 </div>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
